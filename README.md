@@ -1,5 +1,3 @@
-<sub>
-
 ## 👋 Hey, I'm Sachin Yadav
 
 💻 Full Stack Web Developer | ⚙️ 50% Backend | 🎨 50% Frontend | 🧠 DSA Enthusiast | 🚀 Problem Solver
@@ -20,10 +18,7 @@
 - 🧩 **Problem Solving:** DSA 📊 · Algorithms 📈 · GeeksforGeeks 🧠 · LeetCode 🧪  
 - 🧰 **Dev Tools:** Git 🧲 · GitHub 🐙 · VS Code 🧑‍💻 · Postman 📮 · Figma 🎨 · Netlify 🌍 · Render 🚀
 
-⚡ *“Half frontend, half backend — 100% problem solver. Let’s build something awesome!”* 🔥
-
-</sub>
-
+⚡ *“Half frontend, half backend — 100% problem solver. Let’s build something awesome!”* 🔥 
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sachinkumar1029yadav@gmail.com) 
