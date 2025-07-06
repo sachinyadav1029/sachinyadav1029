@@ -7,7 +7,7 @@
 - 🔧 I'm a professional web developer passionate about building scalable and performant web applications  
 - ⚙️ **Backend Lover:** Enjoy working with **Node.js**, **Express**, and **MongoDB** — crafting APIs & handling logic like a boss 💪  
 - 🎨 **Frontend Friendly:** Skilled in **React**, **Next.js** — crafting sleek & responsive UIs 🖼️✨  
-- 🧠 **DSA Ninja:** Strong in **Data Structures & Algorithms** — solving challenges on **GeeksforGeeks** and LeetCode 🧩⚔️  
+- 🧠 **DSA Ninja:** Strong in **Data Structures & Algorithms** — solving challenges on **GeeksforGeeks** and **LeetCode** 🧩⚔️  
 - 🔍 Always exploring new tools, patterns, and best practices in full stack development 🔄🔧  
 - ☕ Late-night coder powered by caffeine, curiosity, and clean code 💡🖱️🧃
 
@@ -16,7 +16,7 @@
 - 🖥️ **Frontend:** React ⚛️ · Next.js 🔂 · JavaScript 📜 · HTML5 🧱 · CSS3 🎨 · TailwindCSS 🌬️  
 - 🛠️ **Backend:** Node.js 🟢 · Express 🚂 · MongoDB 🍃 · REST APIs 🌐 · JWT 🔐 · Mongoose 🧬  
 - 🧩 **Problem Solving:** DSA 📊 · Algorithms 📈 · GeeksforGeeks 🧠 · LeetCode 🧪  
-- 🧰 **Dev Tools:** Git 🧲 · GitHub 🐙 · VS Code 🧑‍💻 · Postman 📮 · Figma 🎨 · Netlify 🌍 · Render 🚀
+- 🧰 **Dev Tools:** Git 🧲 · GitHub 🐙 · VS Code 🧑‍💻 · Postman 📮  · Netlify 🌍 · Render 🚀
 
 ⚡ *“Half frontend, half backend — 100% problem solver. Let’s build something awesome!”* 🔥 
 
