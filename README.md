@@ -1,5 +1,28 @@
-# 💫 About Me:
-## 👋 Hey, I'm Sachin Yadav<br><br>💻 Full Stack Web Developer | ⚙️ 50% Backend | 🎨 50% Frontend | 🧠 DSA Enthusiast | 🚀 Problem Solver<br><br>### 🙋‍♂️ About Me<br><br>- 🔧 I'm a professional web developer passionate about building scalable and performant web applications  <br>- ⚙️ **Backend Lover:** Enjoy working with **Node.js**, **Express**, and **MongoDB** — crafting APIs & handling logic like a boss 💪  <br>- 🎨 **Frontend Friendly:** Skilled in **React**, **Next.js** — crafting sleek & responsive UIs 🖼️✨  <br>- 🧠 **DSA Ninja:** Strong in **Data Structures & Algorithms** — solving challenges on **GeeksforGeeks** and LeetCode 🧩⚔️  <br>- 🔍 Always exploring new tools, patterns, and best practices in full stack development 🔄🔧  <br>- ☕ Late-night coder powered by caffeine, curiosity, and clean code 💡🖱️🧃<br><br>### 🧰 Tech Stack<br><br>- 🖥️ **Frontend:** React ⚛️ · Next.js 🔂 · JavaScript 📜 · HTML5 🧱 · CSS3 🎨 · TailwindCSS 🌬️  <br>- 🛠️ **Backend:** Node.js 🟢 · Express 🚂 · MongoDB 🍃 · REST APIs 🌐 · JWT 🔐 · Mongoose 🧬  <br>- 🧩 **Problem Solving:** DSA 📊 · Algorithms 📈 · GeeksforGeeks 🧠 · LeetCode 🧪  <br>- 🧰 **Dev Tools:** Git 🧲 · GitHub 🐙 · VS Code 🧑‍💻 · Postman 📮 · Figma 🎨 · Netlify 🌍 · Render 🚀<br><br>⚡ *“Half frontend, half backend — 100% problem solver. Let’s build something awesome!”* 🔥
+<sub>
+
+## 👋 Hey, I'm Sachin Yadav
+
+💻 Full Stack Web Developer | ⚙️ 50% Backend | 🎨 50% Frontend | 🧠 DSA Enthusiast | 🚀 Problem Solver
+
+### 🙋‍♂️ About Me
+
+- 🔧 I'm a professional web developer passionate about building scalable and performant web applications  
+- ⚙️ **Backend Lover:** Enjoy working with **Node.js**, **Express**, and **MongoDB** — crafting APIs & handling logic like a boss 💪  
+- 🎨 **Frontend Friendly:** Skilled in **React**, **Next.js** — crafting sleek & responsive UIs 🖼️✨  
+- 🧠 **DSA Ninja:** Strong in **Data Structures & Algorithms** — solving challenges on **GeeksforGeeks** and LeetCode 🧩⚔️  
+- 🔍 Always exploring new tools, patterns, and best practices in full stack development 🔄🔧  
+- ☕ Late-night coder powered by caffeine, curiosity, and clean code 💡🖱️🧃
+
+### 🧰 Tech Stack
+
+- 🖥️ **Frontend:** React ⚛️ · Next.js 🔂 · JavaScript 📜 · HTML5 🧱 · CSS3 🎨 · TailwindCSS 🌬️  
+- 🛠️ **Backend:** Node.js 🟢 · Express 🚂 · MongoDB 🍃 · REST APIs 🌐 · JWT 🔐 · Mongoose 🧬  
+- 🧩 **Problem Solving:** DSA 📊 · Algorithms 📈 · GeeksforGeeks 🧠 · LeetCode 🧪  
+- 🧰 **Dev Tools:** Git 🧲 · GitHub 🐙 · VS Code 🧑‍💻 · Postman 📮 · Figma 🎨 · Netlify 🌍 · Render 🚀
+
+⚡ *“Half frontend, half backend — 100% problem solver. Let’s build something awesome!”* 🔥
+
+</sub>
 
 
 ## 🌐 Socials:
